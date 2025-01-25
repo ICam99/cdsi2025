@@ -1,1 +1,1 @@
-# cdsi2025
+# Ciencia de Datos para Sensores Inteligentes
